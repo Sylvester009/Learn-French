@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background-color: azure;
+  font-size: 16px;
+  font-family: serif, sans-serif;
+  padding: 20px;
+  line-height: 1.5;
+}
+
+header {
+  background-image: url("image/homebg.jpeg");
+  width: 100%;
+  height: 23vh;
+  color: antiquewhite;
+}
+
+h1 {
+  color: red;
+  margin: 0 auto;
+  padding: 10px 10px 0px;
+}
+
+header p {
+  padding: 10px;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.startoff,
+h2,
+.footer-para {
+  padding: 10px;
+  line-height: 1.5em;
+}
+
+.startoff em {
+  color: rgb(30, 71, 255);
+}
+
+.startoff span {
+  color: rgb(30, 235, 30);
+  font-weight: 950;
+  line-height: 2;
+}
+
+main {
+  padding: 10px;
+}
+
+.tips-class {
+  display: flex;
+  padding: 20px;
+  border: 3px solid black;
+}
+
+audio {
+  padding-top: 20px;
+}
