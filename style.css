@@ -5,6 +5,8 @@ body {
   font-family: serif, sans-serif;
   padding: 20px;
   line-height: 1.5;
+  width: 100%;
+  height: 100%;
 }
 
 header {
